@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
