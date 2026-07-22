@@ -5,10 +5,9 @@ class Solution {
             map.put(n,map.getOrDefault(n,0)+1);
         }
         int ans=0;
-        for(int n:nums){
-            int m=map.get(n);
+        for(Integer m:map.values()){
             ans=ans+(m*(m-1)/2);
-            map.put(n,0);
+          
         }
         return ans;
     }
