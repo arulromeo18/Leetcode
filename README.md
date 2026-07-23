@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/arulromeo18/Leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arulromeo18/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
