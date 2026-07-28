@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arulromeo18/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/arulromeo18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arulromeo18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
 | [0782-jewels-and-stones](https://github.com/arulromeo18/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
