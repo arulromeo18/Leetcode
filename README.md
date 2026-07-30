@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/arulromeo18/Leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arulromeo18/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/arulromeo18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/arulromeo18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arulromeo18/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/arulromeo18/Leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arulromeo18/Leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arulromeo18/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
