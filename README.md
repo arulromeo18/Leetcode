@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arulromeo18/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arulromeo18/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arulromeo18/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
