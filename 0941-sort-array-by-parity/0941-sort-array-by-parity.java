@@ -3,7 +3,7 @@ class Solution {
         int start=0;
         int end=nums.length-1;
         while(start<end){
-            if(nums[start]>nums[end]%2){
+            if(nums[start]%2>nums[end]%2){
                 int temp=nums[start];
                 nums[start]=nums[end];
                 nums[end]=temp;
