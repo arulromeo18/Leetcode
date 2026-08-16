@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arulromeo18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/arulromeo18/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/arulromeo18/Leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/arulromeo18/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/arulromeo18/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arulromeo18/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/arulromeo18/Leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/arulromeo18/Leetcode/tree/master/0500-keyboard-row) |
