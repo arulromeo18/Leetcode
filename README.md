@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/arulromeo18/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arulromeo18/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arulromeo18/Leetcode/tree/master/0011-container-with-most-water) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
