@@ -10,10 +10,7 @@ class Solution {
             flag=0;
         }
        }
-       if(flag==1){
-        return true;
-       }
        
-       return min%2==1;
+       return flag==1||min%2==1;
     }
 }
