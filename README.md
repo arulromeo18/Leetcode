@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arulromeo18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/arulromeo18/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/arulromeo18/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arulromeo18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arulromeo18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/arulromeo18/Leetcode/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/arulromeo18/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Counting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/arulromeo18/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/arulromeo18/Leetcode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arulromeo18/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/arulromeo18/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
