@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arulromeo18/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arulromeo18/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arulromeo18/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
