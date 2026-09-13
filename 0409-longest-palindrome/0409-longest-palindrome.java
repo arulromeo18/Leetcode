@@ -15,7 +15,7 @@ class Solution {
             if(count[i]%2==0){
                 ans+=count[i];
             }
-            else if(count[i]%2==1){
+            else{
                 if(flag==0){
                 ans+=count[i]-1;
                 }
