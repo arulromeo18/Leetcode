@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/arulromeo18/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/arulromeo18/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/arulromeo18/Leetcode/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/arulromeo18/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/arulromeo18/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/arulromeo18/Leetcode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/arulromeo18/Leetcode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/arulromeo18/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arulromeo18/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arulromeo18/Leetcode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/arulromeo18/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
