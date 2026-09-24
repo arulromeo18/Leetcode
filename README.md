@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/arulromeo18/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arulromeo18/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arulromeo18/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arulromeo18/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/arulromeo18/Leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arulromeo18/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arulromeo18/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
