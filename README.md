@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/arulromeo18/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arulromeo18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arulromeo18/Leetcode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arulromeo18/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arulromeo18/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arulromeo18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 | [4284-smallest-stable-index-i](https://github.com/arulromeo18/Leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/arulromeo18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arulromeo18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/arulromeo18/Leetcode/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -258,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/arulromeo18/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
