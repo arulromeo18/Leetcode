@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/arulromeo18/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arulromeo18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arulromeo18/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arulromeo18/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arulromeo18/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arulromeo18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
