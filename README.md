@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arulromeo18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arulromeo18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/arulromeo18/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/arulromeo18/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arulromeo18/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arulromeo18/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arulromeo18/Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arulromeo18/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/arulromeo18/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arulromeo18/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/arulromeo18/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
