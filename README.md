@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/arulromeo18/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arulromeo18/Leetcode/tree/master/0525-contiguous-array) |
+| [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/arulromeo18/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/arulromeo18/Leetcode/tree/master/0932-monotonic-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arulromeo18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arulromeo18/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arulromeo18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/arulromeo18/Leetcode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arulromeo18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Manacher
 |  |
