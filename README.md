@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/arulromeo18/Leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/arulromeo18/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0978-valid-mountain-array](https://github.com/arulromeo18/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/arulromeo18/Leetcode/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/arulromeo18/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/arulromeo18/Leetcode/tree/master/1140-stone-game-ii) |
 | [1635-number-of-good-pairs](https://github.com/arulromeo18/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arulromeo18/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/arulromeo18/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/arulromeo18/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/arulromeo18/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arulromeo18/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arulromeo18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/arulromeo18/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/arulromeo18/Leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arulromeo18/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
@@ -298,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arulromeo18/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/arulromeo18/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
