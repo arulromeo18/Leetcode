@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/arulromeo18/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arulromeo18/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/arulromeo18/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/arulromeo18/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting
 |  |
 | ------- |
